@@ -154,7 +154,7 @@ typedef  struct Lnode__0206
 {
 	int data;
 	Lnode__0206* next;
-} *LinkList__0206;
+} *LinkList__0206, Lnode__0206;
 
 
  
